@@ -11,7 +11,7 @@ const transporter = nodemailer.createTransport({
   service: 'gmail', // or 'hotmail' for Outlook
   auth: {
     user: 'umeshkumar0509@gmail.com', // set in environment variables
-    pass: 'gltz aczt xqtl dzpp'  // set in environment variables
+    pass: ''  // set in environment variables
   }
 });
 
